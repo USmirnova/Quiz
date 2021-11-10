@@ -10,4 +10,5 @@
     <string name="question4">Луна - это планета?</string>
     <string name="question5">HTML - язык программирования?</string>
     <string name="answerBtn">Показать ответ</string>
+    <string name="resultTextTitle">Результат:</string>
 </resources>
